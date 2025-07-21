@@ -12,25 +12,25 @@ function Aboutimage() {
         <div className="flex lg:gap-[12px] gap-[6px] lg:mb-[39px] mb-[32px]">
           <div className="w-full">
             {" "}
-            <img src={abi1} alt="" className="lg:h-auto h-[378px]" />{" "}
+            <img src={abi1} alt="" className="" />{" "}
           </div>
           <div className="w-full">
             {" "}
-            <img src={abi2} alt="" className="lg:h-auto h-[378px]" />{" "}
+            <img src={abi2} alt="" className="" />{" "}
           </div>
         </div>
-        <div className="flex lg:gap-[12px] gap-[6px] lg:h-auto h-[378px]">
+        <div className="flex lg:gap-[12px] gap-[6px]">
           <div className="">
-            <img src={abi3} alt="" className="lg:h-auto h-[378px]" />
+            <img src={abi3} alt="" className="" />
           </div>
           <div className="">
             <div>
               {" "}
-              <img src={abi4} alt="" className="lg:h-auto h-[186px]" />{" "}
+              <img src={abi4} alt="" className="" />{" "}
             </div>
             <div className="lg:mt-[12px] mt-[6px]">
               {" "}
-              <img src={abi5} alt="" className="lg:h-auto h-[186px]" />{" "}
+              <img src={abi5} alt="" className="" />{" "}
             </div>
           </div>
         </div>
